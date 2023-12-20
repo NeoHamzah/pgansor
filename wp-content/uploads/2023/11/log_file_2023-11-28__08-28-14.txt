@@ -1,0 +1,52 @@
+
+---Downloaded files---
+The import files for: Magezix Main were successfully downloaded!
+Initial max execution time = 36000
+Files info:
+Site URL = http://pgansor.test
+Data file = C:\laragon\www\pgansor/wp-content/themes/magezix/lib/ocdi/demo/content.xml
+Widget file = C:\laragon\www\pgansor/wp-content/themes/magezix/lib/ocdi/demo/widgets.wie
+Customizer file = C:\laragon\www\pgansor/wp-content/themes/magezix/lib/ocdi/demo/customizer.dat
+Redux files:
+not defined!
+
+---ocdi/before_content_import---
+
+
+------
+Custom Framework file loaded.
+
+---Importing widgets---
+Sidebar : 
+
+Search - Search - Widget already exists
+Magezix Social Icons - Stay Connected - Widget already exists
+Magezix Recent Posts - Hot Topics - Widget already exists
+Image - No Title - Widget already exists
+Magezix Category List - No Title - Widget already exists
+Tag Cloud - Tags - Widget already exists
+Text - No Title - Widget already exists
+
+Footer One : 
+
+Text - No Title - Widget already exists
+
+Footer Two : 
+
+Navigation Menu - Quick Links - Widget already exists
+
+Footer Three : 
+
+Navigation Menu - Catagories - Widget already exists
+
+Footer Four : 
+
+Magezix Footer Recent Posts - Recent Post - Widget already exists
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+
